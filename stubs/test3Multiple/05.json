@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "User1"
+    },
+    {
+      "name": "User2"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "User2",
+      "timestamp_ms": 10,
+      "content": "Tenth message"
+    }
+  ],
+  "title": "Time",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikolageciova_1814891545247236",
+  "magic_words": [
+    
+  ]
+}

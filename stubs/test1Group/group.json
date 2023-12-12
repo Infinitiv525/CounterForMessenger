@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "User1"
+    },
+    {
+      "name": "User2"
+    },
+    {
+      "name": "User3"
+    }
+  ],
+  "messages": [
+        {
+      "sender_name": "User3",
+      "timestamp_ms": 1664268777455,
+      "content": "This is the 6th and last message, it has 49 chars"
+    },
+        {
+      "sender_name": "User2",
+      "timestamp_ms": 1664268777454,
+      "content": "This is the 5th message, it has 40 chars"
+    },
+      {
+      "sender_name": "User3",
+      "timestamp_ms": 1664268777453,
+      "content": "This is the 4th message, it has 40 chars"
+    },
+      {
+      "sender_name": "User2",
+      "timestamp_ms": 1664268777452,
+      "content": "This is the 3rd message, it has 40 chars"
+    },
+    {
+      "sender_name": "User3",
+      "timestamp_ms": 1664268777451,
+      "content": "This is the 2nd message, it has 40 chars"
+    },
+    {
+      "sender_name": "User1",
+      "timestamp_ms": 1,
+      "photos": [
+        {
+          "uri": "This is a photo number 1",
+          "creation_timestamp": 1604441791
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "This is a reaction",
+          "actor": "User2"
+        },
+        {
+          "reaction": "This is a reaction",
+          "actor": "User3"
+        }
+      ]
+    }
+    ],
+  "title": "TitleGroup",
+  "is_still_participant": true,
+  "thread_path": "inbox/3musketieri_1907831332649772",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_activity_across_facebook/messages/photos/123746381_865679214267646_3315467445533449554_n_865679207600980.jpg",
+    "creation_timestamp": 1604503545
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

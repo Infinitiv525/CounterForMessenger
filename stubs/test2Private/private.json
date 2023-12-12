@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "User1"
+    },
+    {
+      "name": "User2"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "User2",
+      "timestamp_ms": 1696425108066,
+      "content": "This is the fifth and the last message"
+    },
+    {
+      "sender_name": "User1",
+      "timestamp_ms": 1692998093617,
+      "content": "this is a fourth message and it also has a link! https://help.ryanair.com/hc/en-ie/categories/12488669481233-Booking-Changes"
+    },
+    {
+      "sender_name": "User1",
+      "timestamp_ms": 1692997988248,
+      "photos": [
+        {
+          "uri": "This is the second photo",
+          "creation_timestamp": 1692997986
+        },
+        {
+          "uri": "this is the first photo",
+          "creation_timestamp": 1692997986
+        }
+      ]
+    },
+    {
+      "sender_name": "User2",
+      "timestamp_ms": 1692956941861,
+      "content": "This is the second message made 50 years later",
+      "reactions": [
+        {
+          "reaction": "this is a reaction",
+          "actor": "User1"
+        }
+      ]
+    },
+    {
+      "sender_name": "User2",
+      "timestamp_ms": 0,
+      "content": "The first message is the end of the call that lasted 100 seconds and was made on 1.1.1970 at 00:00:00.",
+      "call_duration": 100
+    }
+  ],
+  "title": "TitlePrivate",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikolageciova_1814891545247236",
+  "magic_words": [
+    
+  ]
+}
